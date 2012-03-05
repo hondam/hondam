@@ -1,4 +1,5 @@
 { 
   "version": "v0.6.11",
-  "npm": true
+  "npm": true,
+  "main": "server.js"
 }
