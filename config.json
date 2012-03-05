@@ -1,5 +1,7 @@
 { 
   "version": "v0.6.11",
   "npm": true,
-  "main": "server.js"
+  "main": "server.js",
+  "args": [],
+  "envs": {}
 }
