@@ -33,9 +33,9 @@ app.configure('production', function(){
 
 app.get('/', function(req, res){
   res.render('index', {
-    title: 'Express'
+    title: 'Express2'
   });
 });
 
-app.listen(8081);
+app.listen(8082);
 console.log("Express server listening on port %d in %s mode", app.address().port, app.settings.env);
